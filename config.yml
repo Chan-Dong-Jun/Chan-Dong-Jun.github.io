@@ -4,7 +4,6 @@ title: test
 theme: hugo-PaperMod
 
 
-# Home info mode
 params:
     homeInfoParams:
         Title: Hi there wave
